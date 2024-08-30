@@ -28,9 +28,10 @@ The Form Management System is a dynamic and interactive web application built wi
 
 ## **References**
 
-- [Form Component Code](https://github.com/yourusername/form-management-system/blob/main/FormComponent.js)
-- [Validation Schema Code](https://github.com/yourusername/form-management-system/blob/main/formSchema.js)
-- [Stylesheet Code](https://github.com/yourusername/form-management-system/blob/main/styles.css)
+- [App.js Code](https://github.com/naz781/web-guided-project-advanced-forms/blob/main/src/components/App.js)
+- [Friend.js Code](https://github.com/naz781/web-guided-project-form-management/blob/main/src/components/Friend.js)
+- [FriendForm.js Code](https://github.com/naz781/web-guided-project-form-management/blob/main/src/components/FriendForm.js)
+- [Stylesheet Code](https://github.com/naz781/web-guided-project-form-management/blob/main/src/styles.less)
 
 ## **Contact**
 
